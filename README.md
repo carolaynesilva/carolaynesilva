@@ -1,16 +1,13 @@
-## Hi there 👋
+- **ola pessoas.🫀**
 
-<!--
-**carolaynesilva/carolaynesilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- sou estudante do Alura
 
-Here are some ideas to get you started:
+- usarei este espaço para salvar meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- prendo criar uma conta profissional no futuro
+
+- espero ter um grande desenvolvimento
+
+- **_sejam bem-vindos_**
+
+- ![](https://media1.tenor.com/m/eQhVLZVOqdkAAAAC/zenitsu-demon-slayer.gif)
